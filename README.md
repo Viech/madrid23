@@ -11,7 +11,7 @@ part of the ICMAT research term [Quantum Information Theory
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/picos-api%2Fmadrid23/HEAD)
 
 The notebooks require a Jupyter Notebook server or notebook-capable code editor,
-Python 3.4 or later and the libraries listed in
+Python 3.5 or later and the libraries listed in
 [requirements.txt](requirements.txt) (which can be installed through the first
 notebook). You can click the button above to solve the exercises in your browser
 on Binder, though a local setup is recommended.
